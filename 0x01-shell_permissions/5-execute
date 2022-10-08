@@ -1,2 +1,2 @@
 #!/bin/bash
-chown u+x 5-execute
+chown u+x hello
